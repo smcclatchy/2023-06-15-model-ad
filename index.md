@@ -248,7 +248,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to those at JAX and neighboring institutions. 
+    This workshop is open to those at JAX and neighboring institutions.  
     <strong>Prerequisite:</strong>
   This course requires basic R programming experience.
 
