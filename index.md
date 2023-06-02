@@ -316,7 +316,7 @@ change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
 <p><a href="https://forms.office.com/r/mat20agCzt">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=qlxmXS7WeEafX-cHz57L0Wu1q3UZaBJEppukfXduunlUOVczVFQwVFdVR1lVWTFCMlpFWjBRNkNUNS4u">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
